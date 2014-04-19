@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Weather Report</string>
+  <string name="glass_voice_trigger">weather report</string>
+  <string name="glass_voice_prompt">which city?</string>
+</resources>
