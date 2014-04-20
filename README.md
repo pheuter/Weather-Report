@@ -1,5 +1,7 @@
 # Weather Report
 
+[Blog Post Guide](http://blog.markfayngersh.com/glassware-getting-started-developing-native-apps-for-google-glass)
+
 ![Prompt](https://dl.dropboxusercontent.com/s/syrqacnuf3a8t3s/Screenshot%202014-04-19%2019.40.46.png?dl=1&token_hash=AAHYp98qd1dqAhM8dlp1CtEQh-Mv_TJ-d30B10_NFlII6Q)
 
 ![Activity](https://dl.dropboxusercontent.com/s/lnkl46m2imtsl4k/Screenshot%202014-04-19%2019.40.55.png?dl=1&token_hash=AAHT2VKIzr-Onq7xSCtDu3XUfDqcFt_TzfYCqpmhA9tQbA)
